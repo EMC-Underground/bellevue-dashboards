@@ -1,0 +1,6 @@
+*DS_STORE
+history.yml
+.ruby*
+config/config.json*
+log/*
+config.ru

@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'httpi'
+gem 'rubyntlm'
+gem 'dashing'
+gem 'bcrypt'
