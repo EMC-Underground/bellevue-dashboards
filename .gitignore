@@ -4,3 +4,5 @@ history.yml
 config/config.json*
 log/*
 config.ru
+jobs/*
+!jobs/sample.rb
