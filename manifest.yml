@@ -1,0 +1,4 @@
+---
+applications:
+- name: pacnwdashboard
+  memory: 1G
