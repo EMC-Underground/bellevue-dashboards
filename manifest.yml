@@ -3,4 +3,4 @@ applications:
 - name: pacnwdashboard
   memory: 512M
   disk_quota: 2G
-  command: dashing start
+  command: dashing start -p 'echo $VCAP_APP_PORT'
