@@ -6,3 +6,4 @@ log/*
 config.ru
 jobs/*
 !jobs/sample.rb
+Gemfile.lock
